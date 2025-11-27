@@ -1,4 +1,4 @@
-# SInfixa
+# $\textsf{\color{#ff0000}{SInfixa}}$
 
 > Leading software development company specializing in innovative solutions
 
