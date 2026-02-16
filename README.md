@@ -1,10 +1,10 @@
-# $\textsf{\color{#ff0000}{SInfixa}}$
+# $\textsf{\color{#ff0000}{Sinfixa}}$
 
 > Leading software development company specializing in innovative solutions
 
 ## About Us
 
-At **SInfixa**, we are passionate about creating innovative software solutions that drive business growth. With years of experience, we transform complex challenges into elegant, efficient applications. Our commitment to quality and client satisfaction sets us apart in the digital landscape.
+At **Sinfixa**, we are passionate about creating innovative software solutions that drive business growth. With years of experience, we transform complex challenges into elegant, efficient applications. Our commitment to quality and client satisfaction sets us apart in the digital landscape.
 
 We believe in building long-term partnerships with our clients, delivering solutions that not only meet their current needs but also scale with their future growth. Every project is a personal commitment to excellence, quality, and client satisfaction.
 
@@ -54,10 +54,10 @@ Monday - Friday: 9:00 AM - 6:00 PM (CET)
 
 **Ahmad Shuraih** - CEO & Founder
 
-With a passion for creating innovative software solutions, Ahmad founded SInfixa to help businesses transform their digital presence. Every project is a personal commitment to excellence, quality, and client satisfaction.
+With a passion for creating innovative software solutions, Ahmad Shuraih founded Sinfixa to help businesses transform their digital presence. Every project is a personal commitment to excellence, quality, and client satisfaction.
 
 ---
 
 *Transforming Ideas into Digital Reality*
 
-© 2025 SInfixa. All rights reserved.
+© 2025 Sinfixa. All rights reserved.
